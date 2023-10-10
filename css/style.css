@@ -461,7 +461,8 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #45B8AC;
+	/* background-color: #45B8AC; */
+	background-color: #bb22;
 	/* height: 100vh;
     width: 100%; */
 	flex-direction: column;
